@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a physical sciences, technology, and classical music enthusiast who enjoys connecting with people from all around the world. I'm a current student at the University of Toronto studying Mathematics, Physics, and Computer Science.
+I'm a physical sciences, technology, and classical music enthusiast who enjoys connecting with people from all around the world. I'm an upcoming graduate at the University of Toronto studying Computer Science, Physics, and Mathematics.
 
 Having grown up in 4 different countries/regions and with a diverse background, I have a significant amount of experience in international environments and am fluent in both Cantonese and Mandarin Chinese in addition to English. In my free time, I enjoy playing music, learning languages, as well as spending time with my friends and family.
 <!--
